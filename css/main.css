@@ -50,6 +50,7 @@ html, body {
     /* Light mode */
     background-color: var(--page-bg);
     color: var(--text-color);
+    scroll-behavior: smooth;
 }
 
 
